@@ -1,0 +1,71 @@
+﻿<?xml version="1.0"?>
+<doc>
+<assembly>
+<name>
+BIlling Xpress Transportation
+</name>
+</assembly>
+<members>
+<member name="T:BIlling_Xpress_Transportation.My.Resources.Resources">
+<summary>
+  A strongly-typed resource class, for looking up localized strings, etc.
+</summary>
+</member>
+<member name="P:BIlling_Xpress_Transportation.My.Resources.Resources.ResourceManager">
+<summary>
+  Returns the cached ResourceManager instance used by this class.
+</summary>
+</member>
+<member name="P:BIlling_Xpress_Transportation.My.Resources.Resources.Culture">
+<summary>
+  Overrides the current thread's CurrentUICulture property for all
+  resource lookups using this strongly typed resource class.
+</summary>
+</member>
+<member name="P:BIlling_Xpress_Transportation.My.Resources.Resources.icons8_add_new_30">
+<summary>
+  Looks up a localized resource of type System.Drawing.Bitmap.
+</summary>
+</member>
+<member name="P:BIlling_Xpress_Transportation.My.Resources.Resources.icons8_cancel_30">
+<summary>
+  Looks up a localized resource of type System.Drawing.Bitmap.
+</summary>
+</member>
+<member name="P:BIlling_Xpress_Transportation.My.Resources.Resources.icons8_file_30">
+<summary>
+  Looks up a localized resource of type System.Drawing.Bitmap.
+</summary>
+</member>
+<member name="P:BIlling_Xpress_Transportation.My.Resources.Resources.icons8_microsoft_excel_30">
+<summary>
+  Looks up a localized resource of type System.Drawing.Bitmap.
+</summary>
+</member>
+<member name="P:BIlling_Xpress_Transportation.My.Resources.Resources.icons8_refresh_16">
+<summary>
+  Looks up a localized resource of type System.Drawing.Bitmap.
+</summary>
+</member>
+<member name="P:BIlling_Xpress_Transportation.My.Resources.Resources.icons8_restart_30">
+<summary>
+  Looks up a localized resource of type System.Drawing.Bitmap.
+</summary>
+</member>
+<member name="P:BIlling_Xpress_Transportation.My.Resources.Resources.icons8_restart_48">
+<summary>
+  Looks up a localized resource of type System.Drawing.Bitmap.
+</summary>
+</member>
+<member name="P:BIlling_Xpress_Transportation.My.Resources.Resources.icons8_search_30">
+<summary>
+  Looks up a localized resource of type System.Drawing.Bitmap.
+</summary>
+</member>
+<member name="P:BIlling_Xpress_Transportation.My.Resources.Resources.icons8_truck_16">
+<summary>
+  Looks up a localized resource of type System.Drawing.Bitmap.
+</summary>
+</member>
+</members>
+</doc>
